@@ -34,7 +34,9 @@ A solução é baseada integralmente em software **open source** e envolve as se
 │   ├── screenshots/
 │   ├── notas.md
 │   └── configs/
-├── atividade-02/               # (a definir)
+├── atividade-02/               # Servidor Headless e IP Estático
+│   └── ...
+├── atividade-03/               # Servidor de Ficheiros (Samba) e Snapshots
 │   └── ...
 └── docs/
     ├── arquitetura.md          # Diagramas e decisões de arquitetura
