@@ -31,13 +31,7 @@ Como o escopo envolve infraestrutura, este repositório armazena os registros de
 ## Desafios Técnicos e Aprendizados
 As etapas iniciais exigiram um aprofundamento rigoroso em administração de sistemas e redes. A transição para o KVM/libvirt demandou a configuração manual de switches virtuais para garantir o isolamento da rede de testes. Além disso, a configuração temporária de conectividade via Cabo Duplo NAT em um servidor headless Debian consolidou conhecimentos práticos em roteamento, manipulação de interfaces de rede e gestão de pacotes via terminal puro.
 
-## Próximas Etapas
-O projeto segue em expansão sob a orientação da coordenação do laboratório. As próximas fases documentadas incluirão:
-* Implantação e configuração do serviço de diretório (OpenLDAP / Samba AD).
-* Integração das máquinas clientes ao domínio.
-* Vinculação com o backend de identidade do sistema acadêmico.
-
 ---
 Projeto de Iniciação Acadêmica
-Bolsista: John Miguel
-Orientador: Wesley Saraiva
+- Bolsista: John Miguel
+- Orientador: Wesley Saraiva
