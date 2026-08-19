@@ -1,6 +1,6 @@
 # Indentidades na Rede e Estudo de Active Directory
 > Objetivo da Atividade
-> - Analisar a viabilidade de criação de usuários e efetuar autenticação em diferentes sistemas operacionais na rede local e fundamentar base teórica sobre a arquitetura do Active Directory para implementação futura do Samba como controlador de domínio.
+> Analisar a viabilidade de criação de usuários e efetuar autenticação em diferentes sistemas operacionais na rede local e fundamentar base teórica sobre a arquitetura do Active Directory para implementação futura do Samba como controlador de domínio.
 
 ## Tarefa 1 --> Analisar Criação do usuário e Autenticação em Rede
 1. Verificar a possibilidade de criar usuários no servidor Debian e efetuar o login através dos hosts Debian e Windows.
